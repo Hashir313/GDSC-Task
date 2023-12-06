@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634689924735",
+    "project_id": "gdscauth-c28b7",
+    "storage_bucket": "gdscauth-c28b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634689924735:android:3bcc96f12b63f908bb994a",
+        "android_client_info": {
+          "package_name": "com.example.authentication_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ztUaSgCchAzR1MgHW7sacEVwuz2tiFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
